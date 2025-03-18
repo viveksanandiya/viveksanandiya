@@ -24,18 +24,19 @@ OR
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀%20Full-Stack%20Developer;⚡%20Blockchain%20Enthusiast;🛠%20Smart%20Contract%20Developer;🌟%20MERN%20Stack%20Expert;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
-<!-- =================================================== -->
+<!-- ===================================================
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vivek-787&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Vivek-787?label=Followers&style=social" alt="GitHub followers" />
 </p>
+ -->
 
-
+<!--
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vivek-787&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=-1" width="100%" alt="GitHub Trophies"/>
 </p>
-<!-- ================================================= -->
+ ================================================= -->
 
 <details open>
 <summary><h2>👨‍💻 About Me</h2></summary>
@@ -51,7 +52,7 @@ const ramkumar = {
     ],
     askMeAbout: [
         "Web Development","MERN Stack", 
-        // "System Design", "DevOps"
+        <-- "System Design", "DevOps"-->
     ],
     technologies: {
         frontEnd: {
@@ -68,12 +69,12 @@ const ramkumar = {
             }
         },
         devOps: {
-            // containerization: ["Docker"],
+            <-- containerization: ["Docker"],-->
             cicd: ["GitHub Actions"],
             cloud: ["AWS", "Vercel"]
         },
         tools: ["Git", "Postman", "VS Code",
-        //  "Vim"]
+         <--"Vim" -->]
     },
     currentFocus: "Building Ai based learning and hiring  portal",
     funFact: "I debug with console.log and refuse to admit it! 😄"
