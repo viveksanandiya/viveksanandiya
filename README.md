@@ -42,7 +42,7 @@ OR
 <summary><h2>👨‍💻 About Me</h2></summary>
 
 ```javascript
-const ramkumar = {
+const vivek = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     workingOn: ["Ai based Project"],
