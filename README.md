@@ -42,7 +42,7 @@ OR
 <summary><h2>👨‍💻 About Me</h2></summary>
 
 ```javascript
-const vivek = {
+const Vivek = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     workingOn: ["Ai based Project"],
@@ -51,14 +51,12 @@ const vivek = {
         "C", "C++"
     ],
     askMeAbout: [
-        "Web Development","MERN Stack", 
-        <-- "System Design", "DevOps"-->
+        "Web Development","MERN Stack",
     ],
     technologies: {
         frontEnd: {
             frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS", "Material-UI", "Styled Components", "CSS3"],
-            stateManagement: ["Context API"]
+            styling: ["Tailwind CSS", "Material-UI", "Styled Components", "CSS3"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
@@ -69,12 +67,10 @@ const vivek = {
             }
         },
         devOps: {
-            <-- containerization: ["Docker"],-->
             cicd: ["GitHub Actions"],
             cloud: ["AWS", "Vercel"]
         },
         tools: ["Git", "Postman", "VS Code",
-         <--"Vim" -->]
     },
     currentFocus: "Building Ai based learning and hiring  portal",
     funFact: "I debug with console.log and refuse to admit it! 😄"
