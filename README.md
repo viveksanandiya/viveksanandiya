@@ -56,7 +56,7 @@ const Vivek = {
     technologies: {
         frontEnd: {
             frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS", "Material-UI", "Styled Components", "CSS3"]
+            styling: ["Tailwind CSS", "Material-UI", "ShadCN", "CSS3"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
@@ -67,12 +67,12 @@ const Vivek = {
             }
         },
         devOps: {
-            cicd: ["GitHub Actions"],
+            cicd: ["GitHub"],
             cloud: ["AWS", "Vercel"]
         },
         tools: ["Git", "Postman", "VS Code",
     },
-    currentFocus: "Building Ai based learning and hiring  portal",
+    currentFocus: "Building Ai based projects",
     funFact: "I debug with console.log and refuse to admit it! 😄"
 };
 ```
@@ -186,8 +186,8 @@ BLOG-POST-LIST:START -->
 <details open>
 <summary><h2>🎯 Current Focus & Goals</h2></summary>
 
-- 🔭 Working on: **Enterprise-level Web3 Applications**
-- 🌱 Learning: **Zero-Knowledge Proofs & Layer 2 Solutions**
+- 🔭 Working on: **On a personal SaaS project**
+- 🌱 Learning: **AI and its intergation in perosnal projects**
 - 👯 Open to collaborate on: **Innovative Projects based on Web Dev & AI**
 - 🎓 Studying: **CSE'26**
 - 💬 Ask me about: **Full Stack Development**
